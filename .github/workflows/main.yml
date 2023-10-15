@@ -1,0 +1,7 @@
+getscreen.exe -install -register superrackyraton@gmail.com
+getscreen.exe -config "name='My Computer' language=en autostart=true nonadmin=true control=true fast_access=false file_transfer=true audio_calls=false black_screen=true disable_confirmation=true proxy='socks5://username:password@10.0.0.6:8080'"
+getscreen.exe -install
+getscreen.exe -register superrackyraton@gmail.com
+getscreen.exe -uninstall
+getscreen.exe -start
+getscreen.exe -stop
